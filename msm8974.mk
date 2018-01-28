@@ -59,7 +59,7 @@ PRODUCT_PACKAGES += \
     camera.device@1.0-impl-legacy \
     libshim_camera \
     libshim_camera_parameters \
-    Snap
+    Camera2
 
 # Charger
 WITH_LINEAGE_CHARGER := false
